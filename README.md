@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gurjeet Singh</h1>
-<h3 align="center">A passionate Developer & Competitive Programmer. SWE @MagicBricks(Times of India) Ex- Problem Setter @iMocha, SME @Chegg, Electronics & Communication (ECE) Engineering Undergrad at Delhi Technological University,India</h3>
+<h3 align="center">A passionate developer & competitive programmer. SWE @MagicBricks (Times of India), ex-Problem Setter @iMocha, SME @Chegg, Electronics (ECE) engineering undergrad at Delhi Technological University, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewandererg&label=Profile%20views&color=0e75b6&style=flat" alt="codewandererg" /> </p>
 
