@@ -11,13 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Java, SpringBoot, React, Jsp Projects**
 
-- 💬 Ask me about **DSA(Problem Solving) & Web Development**
-
-- 📫 How to reach me official **gurjeet.singh@magicbricks.com**
+- 💬 Ask me about **Designing System (HLD+LLD), Problem Solving(DSA) & Web Development**
 
 - 📫 How to reach me personal **gsingh94179@gmail.com**
 
-- ⚡ Fun fact **I love ethics**
+- ⚡ Fun fact **Code simplicity is harder than complexity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
