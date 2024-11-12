@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Java, SpringBoot, React, Jsp Projects**
 
-- 💬 Ask me about **Designing System (HLD+LLD), Problem Solving(DSA) & Web Development**
+- 💬 Ask me about **Designing System(HLD+LLD), Problem Solving(DSA) & Web Development**
 
 - 📫 How to reach me personal **gsingh94179@gmail.com**
 
