@@ -15,7 +15,6 @@
 
 - 📫 How to reach me personal **gsingh94179@gmail.com**
 
-- ⚡ Fun fact **Code simplicity is harder than complexity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
